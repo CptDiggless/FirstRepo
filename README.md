@@ -1,2 +1,2 @@
 # FirstRepo
-My first github repo
+If love is blind, how can it be at first sight?
